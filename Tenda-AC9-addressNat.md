@@ -14,4 +14,6 @@ A vulnerability was found in Tenda AC9 15.03.02.13. The vulnerability exists in 
 
 PoC
 
-![](https://github.com/ZaneBoden/CVEs/blob/main/Images/Tenda-AC9-addressNat-PoC.png)
+![](https://github.com/ZaneBoden/CVEs/blob/main/Images/Tenda-AC9-addressNat-PoC1.png)
+
+![](https://github.com/ZaneBoden/CVEs/blob/main/Images/Tenda-AC9-addressNat-PoC2.png)
