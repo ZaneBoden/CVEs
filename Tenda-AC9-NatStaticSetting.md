@@ -8,3 +8,8 @@ Vulnerability details
 
 A vulnerability was found in Tenda AC9 15.03.02.13. The vulnerability exists in the /goform/NatStaticSetting HTTP request handler and can be exploited remotely by unauthenticated attackers to achieve arbitrary code execution or cause denial of service conditions.
 
+![](https://github.com/ZaneBoden/CVEs/blob/main/Images/Tenda-AC9-NatStaticSetting-Vul.png)
+
+PoC
+![](https://github.com/ZaneBoden/CVEs/blob/main/Images/Tenda-AC9-NatStaticSetting-PoC.png)
+![](https://github.com/ZaneBoden/CVEs/blob/main/Images/Tenda-AC9-NatStaticSetting-fault.png)
